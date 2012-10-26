@@ -6,7 +6,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using SqlGeneration;
 using SqlGeneration.Extensions;
 
-namespace SqlGenerationTest
+namespace SqlGeneration
 {
     
     [TestClass]

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using SqlGeneration;
 
-namespace SqlGenerationTest
+namespace SqlGeneration
 {
     public class Are
     {
